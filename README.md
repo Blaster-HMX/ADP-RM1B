@@ -8,10 +8,13 @@ This adapter allows testing of SIMM72 DRAM memory modules.
 >Workaround: add a wire to connect pin **6** of the ZIF socket to pins **33** and **45** of the SIMM72 test socket.
 
 This project includes:
-- [Gerber files in zip for PCB manufacturing](RM1B_Gerber.zip)
-- [Eagle 7 CAD schematic/board files in zip](RM1B_Eagle.zip)
-- [Schematic diagram in pdf](RM1B_sch.pdf)
+- [Gerber files in zip for PCB manufacturing](/ADP-RM1B/RM1B_Gerber.zip)
+- [Eagle 7 CAD schematic/board files in zip](/ADP-RM1B/RM1B_Eagle.zip)
+- [Schematic diagram in pdf](/ADP-RM1B/RM1B_sch.pdf)
 
-![EAGLE PCB](RM1B.png)
-![PCB top side](JLCPCB_RM1B_top.png)
-![PCB bottom side](JLCPCB_RM1B_bottom.png)
+PCB
+![EAGLE PCB](/ADP-RM1B/RM1B.png)
+
+PCB Render from JLCPCB
+![PCB top side](/ADP-RM1B/JLCPCB_RM1B_top.png)
+![PCB bottom side](/ADP-RM1B/JLCPCB_RM1B_bottom.png)
