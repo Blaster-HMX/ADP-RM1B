@@ -13,7 +13,7 @@ This project includes:
 - [Schematic diagram in pdf](/ADP-RM1B/RM1B_sch.pdf)
 
 Original adapter:
-![ADP-RM1B](/ADP-RM1B/ADP-RM1B_orig.png)
+![ADP-RM1B](/ADP-RM1B/ADP-RM1B_orig.jpg)
 
 PCB:
 ![EAGLE PCB](/ADP-RM1B/RM1B.png)
