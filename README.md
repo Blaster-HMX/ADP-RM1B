@@ -1,5 +1,5 @@
 # ADP-RM1B
-### Original adapter for Hi-Lo Systems ALL-03, ALL-07 etc. universal programmers, exact PCB clone
+### Original adapter for Hi-Lo Systems ALL-03, ALL-07 etc. universal programmers
 
 This adapter allows testing of SIMM72 DRAM memory modules.
 
